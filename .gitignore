@@ -84,3 +84,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+Servers/
+RemoteSystemsTempFiles/
+./metadata/
+
